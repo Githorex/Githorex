@@ -48,15 +48,12 @@
 
 ---
 
-| ❄ Overall Contributors Stack ❄ | ❄ Current Work - Last 28 days ❄ |
+| ❄ Active Contributors ❄ | ❄ Current Work - Last 28 days ❄ |
 | ----------- | ----------- |
-|<img width="497.5" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=OpenDevHive&theme=tokyonight&hide_border=true&card_height=210&border_radius=15" />|<img width="497.5" height="170" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=198598065,&activity_type=all&image_size=auto&color_scheme=dark" />|
+|<img width="497.5" height="auto" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=930356493&limit=30&image_size=auto&color_scheme=dark" />|<img width="497.5" height="170" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=198598065&activity_type=all&image_size=auto&color_scheme=dark" />|
 <h6>&nbsp;</h6>
 
 ---
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
