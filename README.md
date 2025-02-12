@@ -50,7 +50,7 @@ Join us in making open-source more accessible for all!
 
 | ❄ Active Contributors ❄ | ❄ Current Work - Last 28 days ❄ |
 | ----------- | ----------- |
-|<img width="497.5" height="auto" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=930356493&limit=30&image_size=auto&color_scheme=dark" />|<img width="497.5" height="150" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=198598065&activity_type=all&image_size=auto&color_scheme=dark" />|
+|<img width="497.5" height="150" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=930356493&limit=30&image_size=auto&color_scheme=dark" />|<img width="497.5" height="150" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=198598065&activity_type=all&image_size=auto&color_scheme=dark" />|
 <h6>&nbsp;</h6>
 
 ---
