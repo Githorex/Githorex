@@ -22,7 +22,6 @@
 
 Join us in making open-source more accessible for all! 
 
-<!-- <p align="center"> <img  src="https://visitcount.itsvg.in/api?id=tekadesukant&icon=3&color=6" alt="" /> </p> -->
 
 ---
 
@@ -37,21 +36,17 @@ Join us in making open-source more accessible for all!
 </a>
 </div>
 
-<!-- 
-<p align="center"><img width="497.5" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=dark" alt="GitHub Streak" />&nbsp; </p> 
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=59193514&activity_type=all" target="_blank" style="display: block" align="right">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@tekadesukant's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</a> -->
+
 
 ---
-
-| ❄ Active Contributors ❄ | ❄ Current Work - Last 28 days ❄ |
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
-|<img width="497.5" height="150" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=930356493&limit=30&image_size=auto&color_scheme=dark" />|<img width="497.5" height="150" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=198598065&activity_type=all&image_size=auto&color_scheme=dark" />|
-<h6>&nbsp;</h6>
+|<img width="1050" height="185" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Star Geographic Distribution | Lines of Code Changes |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
 
 ---
 
@@ -59,3 +54,18 @@ Join us in making open-source more accessible for all!
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+
+
+<!-- 
+<p align="center"><img width="497.5" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=dark" alt="GitHub Streak" />&nbsp; </p> 
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=59193514&activity_type=all" target="_blank" style="display: block" align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@tekadesukant's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
+| ❄ Active Contributors ❄ | ❄ Current Work - Last 28 days ❄ |
+| ----------- | ----------- |
+|<img width="497.5" height="150" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=930356493&limit=30&image_size=auto&color_scheme=dark" />|<img width="497.5" height="150" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=198598065&activity_type=all&image_size=auto&color_scheme=dark" />|
+<h6>&nbsp;</h6>-->
+<!-- <p align="center"> <img  src="https://visitcount.itsvg.in/api?id=tekadesukant&icon=3&color=6" alt="" /> </p> -->
