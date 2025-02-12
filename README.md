@@ -41,7 +41,7 @@ Join us in making open-source more accessible for all!
 ---
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
-|<img width="1050" height="185" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+|<img width="1050" height="185" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=198598065&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 | Star Geographic Distribution | Lines of Code Changes |
 | ----------- | ----------- |
