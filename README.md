@@ -12,6 +12,6 @@
  
 <p align="center">  
   <a href="https://github.com/DenverCoder1/readme-typing-svg">  
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FFFFFF&size=20&center=true&vCenter=true&width=500&height=70&lines=OpenDevHive+-+Open+Source+Collaboration+Hub;Open+to+Contributions+from+Everyone;Explore,+Fork,+and+Improve+Repositories;" alt="OpenDevHive - Open Source Collaboration Hub">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FFFFFF&size=20&center=true&vCenter=true&width=500&height=70&lines=Githorex+-+Open+Source+Collaboration+Hub;Open+to+Contributions+from+Everyone;Explore,+Fork,+and+Improve+Repositories;" alt="OpenDevHive - Open Source Collaboration Hub">  
   </a>  
 </p>  
