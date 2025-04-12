@@ -9,9 +9,28 @@
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>
 </div>
- 
+
+ <!-- Text Code 
 <p align="center">  
   <a href="https://github.com/DenverCoder1/readme-typing-svg">  
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FFFFFF&size=20&center=true&vCenter=true&width=500&height=70&lines=Githorex+-+Open+Source+Collaboration+Hub;Open+to+Contributions+from+Everyone;Explore,+Fork,+and+Improve+Repositories;" alt="OpenDevHive - Open Source Collaboration Hub">  
   </a>  
-</p>  
+</p>  -->
+
+
+<div align= "center">
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="./Githorex.png" alt="Logo" width="80" height="80"/></td>
+      <td>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FFFFFF&size=20&center=true&vCenter=true&width=400&height=70&lines=Githorex+-+Open+Source+Collaboration+Hub;Open+to+Contributions+from+Everyone;Explore,+Fork,+and+Improve+Repositories;" alt="Githorex Typing SVG"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p> </div>
+
+
+
