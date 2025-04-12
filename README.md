@@ -22,7 +22,7 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="./Githorex.png" alt="Logo" width="50" height="50"/></td>
+      <td><img src="./Githorex.png" alt="Logo" width="65" height="65"/></td>
       <td>
         <a href="https://github.com/DenverCoder1/readme-typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FFFFFF&size=20&center=true&vCenter=true&width=400&height=70&lines=Githorex+-+Open+Source+Collaboration+Hub;Open+to+Contributions+from+Everyone;Explore,+Fork,+and+Improve+Repositories;" alt="Githorex Typing SVG"/>
